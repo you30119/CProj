@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main() {
+int main9() {
 	int kor = 50, eng = 40, math = 60;
 	int sum = 0;
 	double avg = 0.0;
